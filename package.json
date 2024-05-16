@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "file to track dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install --save express"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shikha-echtops/Nodejs-application.git"
+  },
+  "author": "shikha rana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shikha-echtops/Nodejs-application/issues"
+  },
+  "homepage": "https://github.com/shikha-echtops/Nodejs-application#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
